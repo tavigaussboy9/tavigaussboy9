@@ -1,16 +1,20 @@
-## Hi there 👋
+![microservices development](https://media1.giphy.com/media/v1.Y2lkPTdiYzJhNDkwOXpsaG82NGxkNm9zeHFrbjVnNnJ6cHVtcGRjeGQ5amxpNzJsbGxhYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sPkWvKOUzejmw/giphy.gif)
 
-<!--
-**tavigaussboy9/tavigaussboy9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Introduction
+Bonjour ! Je suis Tavigaussboy9, un développeur passionné par la technologie et l'innovation. J'aime créer des solutions efficaces et élégantes.
 
-Here are some ideas to get you started:
+# Skills
+- **Langages** : Python, JavaScript, HTML, CSS  
+- **Frameworks** : React, Django  
+- **Outils** : Git, Docker, VS Code  
+- **Base de données** : PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+- **Projet A** : Application web de gestion des tâches  
+- **Projet B** : API RESTful pour un service de météo  
+- **Projet C** : Site e-commerce avec React et Node.js
+
+# Contacts
+- **Email** : tavigaussboy9@example.com  
+- **LinkedIn** : [Tavigaussboy9](https://www.linkedin.com/in/tavigaussboy9)  
+- **Twitter** : [@tavigaussboy9](https://twitter.com/tavigaussboy9)
