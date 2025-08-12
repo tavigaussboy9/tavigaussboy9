@@ -1,15 +1,16 @@
-# Introduction
-Salut ! Je suis Tavigaussboy9, un développeur passionné par la technologie et l'innovation.
+# tavigaussboy9
 
-# Compétences
-- Développement Web (HTML, CSS, JavaScript)
-- Python et Machine Learning
-- Bases de données (SQL, NoSQL)
-- Git et GitHub
+**主题：** machine-learning
 
-# Projets
-- [Mon Projet IA](https://github.com/tavigaussboy9/mon-projet-ia) : Un projet sur l'apprentissage automatique.
-- [Portfolio](https://github.com/tavigaussboy9/portfolio) : Mon portfolio personnel.
+## 关于
+专注于 machine-learning。
 
-# Contacts
-Vous pouvez me contacter par email à tavigaussboy9@example.com ou sur Twitter @tavigaussboy9.
+## 技术
+- Python · Git · CI/CD
+- - machine-learning
+- deep-learning
+- pytorch
+- tensorflow
+
+## 链接
+- 主页：https://github.com/tavigaussboy9
